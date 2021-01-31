@@ -63,6 +63,12 @@ Here are some ideas to get you started:
 
 ---
 
+### Spotify Playing 🎧
+
+[<img src="https://spotify-now-playing.damiendabernat.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/21ykycstj6qgq37hw7fdgz6sa)
+
+---
+
 <details>
   <summary>:zap: Recent GitHub Activity</summary>
   

@@ -81,14 +81,6 @@ Here are some ideas to get you started:
 ---
 
 <details>
-  <summary>:zap: Recent GitHub Activity</summary>
-  
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
   <summary>:zap: GitHub Stats</summary>
 
   <img align="left" alt="DamienDabernat's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=DamienDabernat&show_icons=true&hide_border=true" />

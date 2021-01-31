@@ -25,6 +25,10 @@ Here are some ideas to get you started:
 - 🔭 I just launched my company with [@Anthony Da Cruz](https://github.com/Akhu): [Async Agency][website]!
 - 🌱 I’m currently learning everything 🤣
 
+### Now Playing on Spotify 🎧  
+
+[<img src="https://spotify-now-playing.damiendabernat.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/21ykycstj6qgq37hw7fdgz6sa)
+
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -34,7 +38,6 @@ Here are some ideas to get you started:
 <br />
 
 ### Languages and Tools:
-
 
 [<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />][website]
 [<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />][website]
@@ -54,6 +57,12 @@ Here are some ideas to get you started:
 
 ---
 
+### 🎙 Checkout our podcast ! 
+
+[<img src="https://github.com/DamienDabernat/DamienDabernat/blob/main/podcast.png" alt="Our podcast" width="600" />](https://open.spotify.com/show/2XpdH2CGQV0eJnm12MzSED?si=x4F7Z8WgTfyaiyn5y-hamg)
+
+---
+
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
@@ -65,18 +74,6 @@ Here are some ideas to get you started:
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.async-agency.com)
-
----
-
-### 🎙 Checkout our podcast ! 
-
-[<img src="https://github.com/DamienDabernat/DamienDabernat/blob/main/podcast.png" alt="Our podcast" width="600" />](https://open.spotify.com/show/2XpdH2CGQV0eJnm12MzSED?si=x4F7Z8WgTfyaiyn5y-hamg)
-
----
-
-### 🎧 Now Playing on Spotify 
-
-[<img src="https://spotify-now-playing.damiendabernat.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/21ykycstj6qgq37hw7fdgz6sa)
 
 ---
 

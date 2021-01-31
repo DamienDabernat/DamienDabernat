@@ -70,7 +70,7 @@ Here are some ideas to get you started:
 
 ### 🎙 Checkout our podcast ! 
 
-[<img src="https://github.com/DamienDabernat/DamienDabernat/blob/main/podcast.png" alt="Our podcast" width="250" />](https://open.spotify.com/show/2XpdH2CGQV0eJnm12MzSED?si=x4F7Z8WgTfyaiyn5y-hamg)
+[<img src="https://github.com/DamienDabernat/DamienDabernat/blob/main/podcast.png" alt="Our podcast" width="600" />](https://open.spotify.com/show/2XpdH2CGQV0eJnm12MzSED?si=x4F7Z8WgTfyaiyn5y-hamg)
 
 ---
 

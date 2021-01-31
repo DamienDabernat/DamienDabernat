@@ -31,14 +31,9 @@ Here are some ideas to get you started:
 
 [<img src="https://spotify-now-playing.damiendabernat.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/21ykycstj6qgq37hw7fdgz6sa)
 
-<br />
-
-
 ### 🎙 Checkout my podcast ! 
 
 [<img src="https://github.com/DamienDabernat/DamienDabernat/blob/main/podcast.png" alt="Our podcast" width="600" />](https://open.spotify.com/show/2XpdH2CGQV0eJnm12MzSED?si=x4F7Z8WgTfyaiyn5y-hamg)
-
-<br />
 
 #### Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -78,7 +73,7 @@ Here are some ideas to get you started:
 [<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 
-<br />
+<br /><br />
 
 
 <details>

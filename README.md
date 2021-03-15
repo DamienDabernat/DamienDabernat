@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [👎 Arrêtez avec les erreurs humaines !](https://blog.async-agency.com/arretez-avec-les-erreurs-humaines/)
 - [🐥 Flutter 2.0, ce que vous avez probablement loupé.](https://blog.async-agency.com/flutter-2-0-ce-que-vous-avez-probablement-loupe/)
 - [Pourquoi on procrastine autant ?](https://blog.async-agency.com/pourquoi-on-procrastine-autant/)
 - [Storytelling Canvas en Français 🥖](https://blog.async-agency.com/storytelling-canvas-en-francais/)
 - [Comment monter son entreprise  tech en France en 2021 ?](https://blog.async-agency.com/comment-monter-sa-boite-en-france/)
-- [Comment créer une routine pour ses plantes avec Apple Shortcuts](https://blog.async-agency.com/tools-shortcutplantes/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.async-agency.com)

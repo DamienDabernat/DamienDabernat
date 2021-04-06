@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Comment rédiger une bonne documentation technique ?](https://blog.async-agency.com/comment-rediger-une-bonne-documentation-technique-2/)
 - [📤  Comment publier une application Flutter en moins de 30 minutes sur le Google Play Store](https://blog.async-agency.com/comment-publier-une-application-flutter/)
 - [Comment installer Flutter sur Mac ?](https://blog.async-agency.com/comment-installer-flutter-sur-mac/)
 - [💣 Pourquoi un projet échoue  ?](https://blog.async-agency.com/pourquoi-un-projet-echoue/)
 - [Canvas Produit Data Science](https://blog.async-agency.com/canvas-produit-data-science/)
-- [👎 Arrêtez avec les erreurs humaines !](https://blog.async-agency.com/arretez-avec-les-erreurs-humaines/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.async-agency.com)

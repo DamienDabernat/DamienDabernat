@@ -47,11 +47,11 @@ Here are some ideas to get you started:
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [9 conseils concrets pour concevoir un site de qualité](https://blog.async-agency.com/9-conseils-concrets-pour-concevoir-un-site-de-qualite/)
 - [Main Thread #8 Comment être bien payé en tant que développeur ?](https://blog.async-agency.com/main-thread-8-comment-etre-bien-paye-en-tant-que-developpeur/)
 - [Utiliser le format SVG avec XCode 12](https://blog.async-agency.com/utiliser-le-format-svg-avec-xcode-12/)
 - [Réagir à l'état du réseau sur Android avec Kotlin](https://blog.async-agency.com/surveiller-letat-de-la-connexion-sur-android-avec-kotlin/)
 - [Main Thread #7](https://blog.async-agency.com/maint-thread-7/)
-- [Main thread #6](https://blog.async-agency.com/main-thread-6/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://blog.async-agency.com)

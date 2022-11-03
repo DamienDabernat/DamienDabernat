@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: ...
 
 
@@ -25,15 +25,6 @@ Here are some ideas to get you started:
 **I'm a Developer and a Teacher**
 
 - 🔭 I just launched my company with [@Anthony Da Cruz](https://github.com/Akhu): [Async Agency][website]!
-- 🌱 I’m currently learning everything 🤣
-
-#### Now Playing on Spotify 🎧  
-
-[<img src="https://spotify-now-playing.damiendabernat.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/21ykycstj6qgq37hw7fdgz6sa)
-
-### 🎙 Checkout my podcast ! 
-
-[<img src="https://github.com/DamienDabernat/DamienDabernat/blob/main/podcast.png" alt="Our podcast" width="600" />](https://open.spotify.com/show/2XpdH2CGQV0eJnm12MzSED?si=x4F7Z8WgTfyaiyn5y-hamg)
 
 #### Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]

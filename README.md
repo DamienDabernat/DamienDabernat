@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 **I'm a Developer and a Teacher**
 
-- 🔭 I just launched my company with [@Anthony Da Cruz](https://github.com/Akhu): [Async Agency][website]!
+- 🔭 I just launched my company: [Collectif Surpuissant][website] !
 
 #### Connect with me:
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -32,20 +32,6 @@ Here are some ideas to get you started:
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
-
----
-
-### 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [🎃 MT #28, Rachat de Twitter : ce qui change, ce que j&#39;aurai aimé savoir en junior dev et malware Python.](https://blog.async-agency.com/mt-28-rachat-de-twitter-ce-qui-change-ce-que-jaurai-aime-savoir-en-junior-dev-et-malware-python/)
-- [MT #27 Une IA qui réussi votre scolarité à votre place, Microsoft détruit Canvas et annonces Apple](https://blog.async-agency.com/une-ia-qui-reussi-votre-scolarite-a-votre-place-microsoft-detruit-canvas-et-annonces-apple/)
-- [#26 💶 L&#39;open source pour gagner de l&#39;argent, de la dataviz accessible et des outils indécents.](https://blog.async-agency.com/26-lopen-source-pour-gagner-de-largent-de-la-dataviz-accessible-et-des-outils-indecents/)
-- [👩‍💻 Main Thread #25, le plein d’outils pour booster votre workflow](https://blog.async-agency.com/main-thread-25-le-plein-doutils-pour-booster-votre-workflow/)
-- [😱 Figma racheté par Adobe pour 20 Milliards de dollars. Les conséquences.](https://blog.async-agency.com/figma-rachete-par-adobe-pour-20-milliards-de-dollars-les-consequences/)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://blog.async-agency.com)
 
 ---
 
@@ -75,7 +61,7 @@ Here are some ideas to get you started:
 </details>
 
 
-[website]: https://async-agency.com
-[blog]: https://blog.async-agency.com
+[website]: https://surpuissant.com
+[blog]: https://surpuissant.com/lab
 [twitter]: https://twitter.com/damien_dabernat
 [linkedin]: https://www.linkedin.com/in/damien-dabernat/
